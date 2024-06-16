@@ -10,6 +10,12 @@ Este repositório é composto por projetos desenvolvidos durante as aulas de Int
 
 **Linguagem de Programação** Java
 
+**Test-driven development (TDD):** JUnit
+
+**Banco de Dados:** MySQL
+
+**API:** JDBC
+
 
 ## Aluno
 
